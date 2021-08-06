@@ -1,0 +1,10 @@
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\obj\Debug\Project_Team3.FrmProject.resources
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\obj\Debug\Project_Team3.csproj.GenerateResource.cache
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\bin\Debug\Project_Team3.exe
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\bin\Debug\Project_Team3.pdb
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\obj\Debug\Project_Team3.Properties.Resources.resources
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\obj\Debug\Project_Team3.csproj.CoreCompileInputs.cache
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\obj\Debug\Project_Team3.exe
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\obj\Debug\Project_Team3.pdb
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\obj\Debug\Project_Team3.csprojAssemblyReference.cache
+C:\Users\Tran Quang Khai\source\repos\Project_Team3\Project_Team3\obj\Debug\Project_Team3.csproj.ResolveComReference.cache

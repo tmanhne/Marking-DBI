@@ -1,0 +1,30 @@
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\bin\Release\Project_Team3.exe
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\bin\Release\Project_Team3.pdb
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\obj\Release\Project_Team4.csproj.ResolveComReference.cache
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\obj\Release\Project_Team4.FrmProject.resources
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\obj\Release\Project_Team3.Properties.Resources.resources
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\obj\Release\Project_Team4.csproj.GenerateResource.cache
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\obj\Release\Project_Team4.csproj.CoreCompileInputs.cache
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\obj\Release\Project_Team3.exe
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\obj\Release\Project_Team3.pdb
+E:\PRN-292\source\repos\Project_Team3\Project_Team3\obj\Release\Project_Team4.csprojAssemblyReference.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\obj\Release\Project_Team4.csprojAssemblyReference.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\obj\Release\Project_Team4.csproj.ResolveComReference.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\obj\Release\Project_Team4.FrmProject.resources
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\obj\Release\Project_Team4.csproj.GenerateResource.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\obj\Release\Project_Team4.csproj.CoreCompileInputs.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\bin\Release\Project_Team4.exe
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\bin\Release\Project_Team4.pdb
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\obj\Release\Project_Team4.Properties.Resources.resources
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\obj\Release\Project_Team4.exe
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team3\Project_Team3\obj\Release\Project_Team4.pdb
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\bin\Release\Project_Team4.exe
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\bin\Release\Project_Team4.pdb
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\obj\Release\Project_Team4.csprojAssemblyReference.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\obj\Release\Project_Team4.csproj.ResolveComReference.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\obj\Release\Project_Team4.FrmProject.resources
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\obj\Release\Project_Team4.Properties.Resources.resources
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\obj\Release\Project_Team4.csproj.GenerateResource.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\obj\Release\Project_Team4.csproj.CoreCompileInputs.cache
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\obj\Release\Project_Team4.exe
+C:\Users\Tran Quang Khai\OneDrive\Desktop\SE1428_Nhom4\Project_Team4\Project_Team4\obj\Release\Project_Team4.pdb

@@ -1,0 +1,8 @@
+
+CREATE TRIGGER Tr1
+ON dbo.Products
+AFTER INSERT
+AS BEGIN
+SELECT *
+FROM Inserted i
+END 

@@ -1,0 +1,11 @@
+SELECT [EmployeeID]
+      ,[FirstName]
+      ,[LastName]
+      ,[Email]
+      ,[Phone]
+      ,[JobID]
+      ,[Salary]
+      ,[Commission_pct]
+      ,[ManagerID]
+      ,[DepartmentID]
+  FROM [dbo].[Employees] WHERE Salary > 9000
